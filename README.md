@@ -39,13 +39,6 @@
 - 🐳 FastAPI & Docker
 - 📈 Data Cleaning & Analysis (Pandas, NumPy)
 
----
-
-## 💡 GitHub Stats
-
-![Kishore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishore&show_icons=true&theme=dark)
-
----
 
 ## 📫 Let's Connect
 
