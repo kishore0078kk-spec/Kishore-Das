@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Kishore
 
-🎓 *Final Year CSE (AI/AD)* @ GIFT Autonomous College, Bhubaneswar
+🎓 CSE student @ GIFT Autonomous College, Bhubaneswar
 
 ---
 
 ## 🚀 What I'm Building
 - 🌿 Smart Plant Monitoring System (ESP32 + Flask + MobileNetV2)
-- 🤖 AI Portfolio Generator (Flask + Anthropic API
+- Odisha_Traveler_Guid-
 
 ---
 
@@ -34,7 +34,6 @@
 ---
 
 ## 📊 Current Learning
-- 🔥 PyTorch & Transfer Learning
 - 🧠 LangChain & Agentic AI
 - 🐳 FastAPI & Docker
 - 📈 Data Cleaning & Analysis (Pandas, NumPy)
